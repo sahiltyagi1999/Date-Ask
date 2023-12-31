@@ -1,2 +1,4 @@
 # Date-Ask
-Prank Web Appliocation for asking for date , where you cant say no.
+Prank Web Application for asking for date , where you cant say no.
+
+Deploy Link - https://jolly-meringue-e128c0.netlify.app/
